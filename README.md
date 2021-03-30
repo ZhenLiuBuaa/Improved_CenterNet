@@ -1,2 +1,2 @@
 # Improved_CenterNet
-A simple improvemen of CenterNet
+A simple improvement of CenterNet
