@@ -1,6 +1,6 @@
 ## Improved_CenterNet
 This repository is based on [CenterNet](https://github.com/xingyizhou/CenterNet)
-A simple improvement of CenterNet.
+A simple improvement of CenterNet. (It can get 1.0%~1.2% improvement)
 
 ![Manhattan Error Distance of Samples](https://user-images.githubusercontent.com/45850504/112993240-8eff8180-919b-11eb-9f76-07d95dfa992f.png "Manhattan Error Distance of Samples")
 As the figure shows, 47.8% wrong classified samples have 1 Manhattan Distance. So, we aims to add more modifications for those samples.
